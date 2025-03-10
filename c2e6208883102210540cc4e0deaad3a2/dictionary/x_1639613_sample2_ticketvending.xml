@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3c58200c83102210540cc4e0deaad312" label="TicketVending" max_length="40" name="x_1639613_sample2_ticketvending" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="mobile nmber" max_length="40" name="mobile_nmber" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Destinationstation" max_length="40" name="destinationstation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Price" max_length="40" name="price" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Sourcestation" max_length="40" name="sourcestation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Ticketnumber" max_length="40" name="ticketnumber" type="string"/>
+    </element>
+</database>
